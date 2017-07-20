@@ -70,3 +70,19 @@
    70  git push -u origin master 
    71  touch index2.html
    72  history >今天的命令.txt
+   73  clear
+   74  git status
+   75  git add .
+   76  git commit -m '修改'
+   77  git push -u origin master 
+   78  git status
+   79  git add .
+   80  git commit -m 'xiugai'
+   81  git push -u origin master  
+   82  touch index.html
+   83  git status
+   84  git add.
+   85  git add .
+   86  git commit -m 'miss'
+   87  git push -u origin master 
+   88  history >今天的命令.txt
